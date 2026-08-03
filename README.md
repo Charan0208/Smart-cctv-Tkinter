@@ -1,16 +1,5 @@
 # smart-cctv-tkinter
-This is a tkinter gui app for smart camera.
 
+An intelligent, real-time video surveillance desktop application built using Python, OpenCV, and Tkinter.
 
-you just need to run main.py file inorder to run full app 
-
-you would need :
-opencv
-tkinter
-
-installed to run these scripts properly
-
-video : https://youtu.be/vNeaJacy99s
-
-thanks ;) 
-
+This project transforms traditional CCTV monitoring into a smart security hub by integrating real-time motion detection, automated alerts, and an intuitive, user-friendly graphical interface.
